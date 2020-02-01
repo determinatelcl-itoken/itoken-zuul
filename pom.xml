@@ -6,7 +6,6 @@
         <groupId>com.itoken.dependency</groupId>
         <artifactId>itoken-dependency</artifactId>
         <version>1.0</version>
-        <relativePath>../itoken-dependency/pom.xml</relativePath>
     </parent>
 
     <groupId>com.itoken.zuul</groupId>
